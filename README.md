@@ -17,7 +17,6 @@ This project is an Arduino-based MIDI controller that utilizes buttons and poten
 - Buttons (8)
 - Potentiometers (2)
 - LiquidCrystal_I2C display (optional)
-- Servo (optional)
 - Connecting wires
 - Breadboard (optional)
 
@@ -26,7 +25,6 @@ This project is an Arduino-based MIDI controller that utilizes buttons and poten
 Ensure you have the following libraries installed:
 
 - `LiquidCrystal_I2C`
-- `Servo`
 - `ResponsiveAnalogRead` - [Download from GitHub](https://github.com/dxinteractive/ResponsiveAnalogRead)
 - `MIDI` or `MIDIUSB` (depending on the board used)
 
